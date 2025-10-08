@@ -26,7 +26,7 @@ Dataset ini tidak berisi data pribadi sensitif, namun tetap berpotensi menimbulk
 Mitigasinya: dataset hanya digunakan untuk **analisis agregat dan optimasi operasional internal**, bukan pengambilan keputusan individual. Selain itu, seluruh data pribadi (jika ada di masa depan) akan dianonimkan sebelum digunakan.
 
 ## Tools & Libraries
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
+- Python
 - Scikit-Learn, XGBoost  
 - Google Colab, GitHub, KaggleHub 
 
